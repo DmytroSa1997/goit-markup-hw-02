@@ -202,3 +202,38 @@ letter-spacing: 0.06em;
 .modal-button:focus{
     color: #2196F3;
 }
+
+.text-link-iteams{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.desc-link{
+font-family: Roboto;
+font-style: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+letter-spacing: 0.06em;
+color: #212121;
+}
+
+.text-items-link{
+    font-family: Roboto;
+font-style: 'Roboto', sans-serif;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
