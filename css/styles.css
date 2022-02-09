@@ -9,6 +9,7 @@
 :root{
     --primary-font-family: 'Roboto', sans-serif;
     --primary-text-color: #2196F3;
+    --secondary-color: #212121
 }
 body {
 font-family: var(--primary-font-family);
